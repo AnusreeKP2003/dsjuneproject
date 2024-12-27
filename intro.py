@@ -1,2 +1,2 @@
-def hello(x):
-    return
+def hello(x,y):
+    return x+y
